@@ -9,9 +9,6 @@
 ---
 
 ## Información
-
-Carrera: Ingeniería en Telecomunicaciones  
-Materia: Desarrollo de Aplicaciones Distribuidas  
 Año: 2026  
 Alumno: Fatima Steingart  
 
