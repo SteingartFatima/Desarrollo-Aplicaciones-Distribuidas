@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    text-align: center;
+}
+
+ol {
+    line-height: 1.5;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #999;
+    background-color: #eaf4ff;
+}
+
+strong {
+    font-weight: bold;
+}
+
+span {
+    font-weight: normal;
+}

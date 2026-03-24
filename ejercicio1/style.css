@@ -1,0 +1,48 @@
+body {
+  background-color: #eef5fb; /* suave */
+  color: #222;
+  font-family: "Segoe UI", Arial, sans-serif;
+  margin: 20px;
+  line-height: 1.5;
+}
+
+h1 {
+  color: #1a4b7a;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.contenedor-columnas {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 32px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.bloque-info {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 12px;
+  box-sizing: border-box;
+}
+
+h2 {
+  color: #2b6ca3;
+  font-size: 1.6rem;
+  margin-top: 0;
+}
+
+p {
+  color: #333;
+  font-size: 1rem;
+}
+
+ul {
+  padding-left: 20px;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
